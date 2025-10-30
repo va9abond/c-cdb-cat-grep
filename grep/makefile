@@ -16,9 +16,6 @@ __grep.o: grep.c
 __xstdio.o: $(INC)/__xstdio.c
 	@$(CC) -I $(INC) -c $(CFLAGS) $(SUPPRESSOR) $(INC)/__xstdio.c -o __xstdio.o
 
-run: $(TARGET)
-	./$(TARGET)
-
 tests: $(TARGET)
 	@cd tests && python3 tester.py
 
@@ -28,5 +25,5 @@ clean:
 	rm -rf __xstdio.o
 
 
-.PHONY: build run clean
+.PHONY: build clean tests
 

@@ -4,8 +4,6 @@ TARGET     = cat
 # SUPPRESSOR = -Wno-unused-parameter -Wno-unused-variable
 
 
-all: build
-
 build: $(TARGET)
 
 $(TARGET): cat.o
@@ -14,16 +12,13 @@ $(TARGET): cat.o
 cat.o: cat.c
 	@$(CC) -c $(CFLAGS) $(SUPPRESSOR) cat.c -o cat.o
 
-run: $(TARGET)
-	./$(TARGET)
-
 tests: $(TARGET)
-	@cd tests && python3 tester.py && cd ..
+	@cd tests && python3 tester.py
 
 clean:
 	rm -rf $(TARGET)
 	rm -rf cat.o
 
 
-.PHONY: build run clean tests
+.PHONY: build clean tests
 
