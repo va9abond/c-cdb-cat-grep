@@ -1,0 +1,268 @@
+[
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-n"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--number"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-b"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--number-nonblank"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-v"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-nonprinting"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-s"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--squeeze-blank"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-T"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-tabs"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-ends"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-E"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-A"]
+    },
+    {
+        "name": "empty file test",
+        "files": ["assets/empty-file"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-all"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-n"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--number"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-b"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--number-nonblank"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-v"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-nonprinting"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-s"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--squeeze-blank"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-T"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-tabs"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-ends"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-E"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-A"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["--show-all"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-n", "-v", "-s"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-n", "-v"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-b", "-s"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-s", "-n"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-A", "-n"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-E", "-s"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-E", "-b"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-A", "-b"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-E", "-b"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "cat",
+        "mimic": "./../cat",
+        "args": ["-An", "-s"]
+    }
+]

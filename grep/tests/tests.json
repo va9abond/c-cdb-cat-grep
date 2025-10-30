@@ -1,0 +1,282 @@
+[
+    {
+        "name": "emty file test",
+        "files": ["assets/empty-file"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ni", "-e", "lorem"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ni", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-n", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-i", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-v", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-c", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-l", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-h", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-s", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ni", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ci", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-cn", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-nv", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-vi", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-vin", "-e", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-vin", "-e", "zarathustra"]
+    },
+    {
+        "name": "emty file test",
+        "files": ["assets/empty-file"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ni", "lorem"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ni", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-n", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-i", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-v", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-c", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-l", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-h", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-s", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ni", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-ci", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-cn", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-cni", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-nv", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-vi", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-vin", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-o", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-no", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-io", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-cio", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-nio", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-vo", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-nvo", "zarathustra"]
+    },
+    {
+        "name": "zarathustra test",
+        "files": ["assets/zarathustra", "assets/zarathustra"],
+        "idol": "grep",
+        "mimic": "./../grep",
+        "args": ["-nvoc", "zarathustra"]
+    }
+]
