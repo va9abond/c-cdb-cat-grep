@@ -258,8 +258,8 @@ int cook_opts (int argc, char **argv) {
 
 
 void usage (void) {
-    fputs("Usage: " PROGRAM_NAME ": [OPTION]... -e PATTERN [FILE]...\n", stdout);
-    fputs("       " PROGRAM_NAME ": [OPTION]... -f PATTERN_FILE [FILE]...\n", stdout);
+    fputs("Usage: " PROGRAM_NAME ": [OPTION]... PATTERN [FILE]...\n", stdout);
+    fputs("       " PROGRAM_NAME ": [OPTION]... -e PATTERN [FILE]...\n", stdout);
     fputs("Author: " AUTHOR "\n", stdout);
 
     return;
